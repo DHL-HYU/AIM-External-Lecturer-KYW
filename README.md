@@ -1,1 +1,2 @@
-# External-Lecturer-KYW
+# Artificial Intelligence in Medicine
+# AIM-External-Lecturer-KYW
